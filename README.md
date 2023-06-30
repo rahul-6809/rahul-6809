@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/113OjXnFWra0e8xfdB3spQxcbNBGDEUMv/view?usp=sharing)
+![MasterHead](https://i.postimg.cc/DyMDzHzd/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rahul Kumar Pandey</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
